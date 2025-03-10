@@ -1,0 +1,5 @@
+llm_cache.db
+.env
+__pycache__/
+hf_cache/ 
+venv/
